@@ -1,7 +1,7 @@
-# Tools I made with Batch!
+## Tools I made with Batch!
 Simple tools I made with Batch.
 # Batch Browser
-Batch Browser is a program where you can enter a URL or search the web. The first public version of Batch Browser is Batch Browser 1.2, 1.0 and 1.1 won't be released to the public.
+Batch Browser is a program where you can enter a URL or search the web.
 # How to install
 1. Go to main
 2. Click on "<> Code"
